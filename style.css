@@ -279,7 +279,9 @@ body {
 }
 
 #product1 .pro a.cart{
+    display: flex;
     align-items: center;
+    justify-content: center;
     width: 40px;
     height: 40px;
     line-height: 40px;
