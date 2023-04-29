@@ -18,3 +18,4 @@ if(hero){
         nav.classList.remove('active');
     })
 }
+
